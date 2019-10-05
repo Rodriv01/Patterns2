@@ -1,0 +1,6 @@
+C:\Users\rodri\source\repos\CompositeExample\CompositeExample\bin\Debug\CompositeExample.exe.config
+C:\Users\rodri\source\repos\CompositeExample\CompositeExample\bin\Debug\CompositeExample.exe
+C:\Users\rodri\source\repos\CompositeExample\CompositeExample\bin\Debug\CompositeExample.pdb
+C:\Users\rodri\source\repos\CompositeExample\CompositeExample\obj\Debug\CompositeExample.csprojAssemblyReference.cache
+C:\Users\rodri\source\repos\CompositeExample\CompositeExample\obj\Debug\CompositeExample.exe
+C:\Users\rodri\source\repos\CompositeExample\CompositeExample\obj\Debug\CompositeExample.pdb

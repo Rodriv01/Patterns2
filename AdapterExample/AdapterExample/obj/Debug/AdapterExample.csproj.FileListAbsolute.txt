@@ -1,0 +1,9 @@
+C:\Users\rodri\source\repos\AdapterExample\AdapterExample\bin\Debug\AdapterExample.exe.config
+C:\Users\rodri\source\repos\AdapterExample\AdapterExample\bin\Debug\AdapterExample.exe
+C:\Users\rodri\source\repos\AdapterExample\AdapterExample\bin\Debug\AdapterExample.pdb
+C:\Users\rodri\source\repos\AdapterExample\AdapterExample\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rodri\source\repos\AdapterExample\AdapterExample\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rodri\source\repos\AdapterExample\AdapterExample\obj\Debug\AdapterExample.csprojAssemblyReference.cache
+C:\Users\rodri\source\repos\AdapterExample\AdapterExample\obj\Debug\AdapterExample.csproj.CopyComplete
+C:\Users\rodri\source\repos\AdapterExample\AdapterExample\obj\Debug\AdapterExample.exe
+C:\Users\rodri\source\repos\AdapterExample\AdapterExample\obj\Debug\AdapterExample.pdb

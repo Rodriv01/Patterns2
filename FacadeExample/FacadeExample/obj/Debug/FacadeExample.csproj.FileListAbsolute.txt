@@ -1,0 +1,6 @@
+C:\Users\rodri\source\repos\FacadeExample\FacadeExample\bin\Debug\FacadeExample.exe.config
+C:\Users\rodri\source\repos\FacadeExample\FacadeExample\bin\Debug\FacadeExample.exe
+C:\Users\rodri\source\repos\FacadeExample\FacadeExample\bin\Debug\FacadeExample.pdb
+C:\Users\rodri\source\repos\FacadeExample\FacadeExample\obj\Debug\FacadeExample.csprojAssemblyReference.cache
+C:\Users\rodri\source\repos\FacadeExample\FacadeExample\obj\Debug\FacadeExample.exe
+C:\Users\rodri\source\repos\FacadeExample\FacadeExample\obj\Debug\FacadeExample.pdb
